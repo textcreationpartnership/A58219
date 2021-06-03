@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against a clause in the bill, entituled, an act for the preventing the exportation of wooll, &amp;c. and for the better regulating of the factors in Blackwell-Hall</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58219</idno><idno type="EEBO-CITATION">99833869</idno>
+  <idno type="VID">38347</idno>
+  <idno type="EEBO-PROQUEST">2248552877</idno>
+  
+            <idno type="STC">Wing R464</idno>
+            <idno type="STC">ESTC R222727</idno>
+            <idno type="PROQUEST">99833869</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833869e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38347)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2214:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against a clause in the bill, entituled, an act for the preventing the exportation of wooll, &amp;c. and for the better regulating of the factors in Blackwell-Hall</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38347:1"/>
+            <head>REASONS AGAINST A CLAUSE in the BILL, ENTITULED, An Act for the preventing the Exportation of WOOLL, <hi>&amp;c.</hi> and for the better Regulating of the FACTORS in <hi>Blackwell-Hall.</hi>
+            </head>
+            <q>
+               <bibl>Bill, fo. 11. The Clause,</bibl>
+               <p>And be it further Enacted, That if any Person or Persons called or known by name of <hi>Blackwell-Hall</hi> Factor or Factors, acting in the Sale of Cloth in the said Hall, shall hereafter be concerned in the Buying or Selling of Wooll, by himself or Agents, upon information thereof from time to time to the Governors of the said Hall, such Factor or Factors so offending, shall forfeit 5 l. for every Bag of Wooll so bought or sold, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Clause is prosecuted by a very few of the rich designing Clothiers, to ruin the midling and small Clothiers (who are the more numerous ten to one) which cannot be effected, without first destroying the Factors that do support them, by Credit and Advance both of Money and Wooll before sale of their Cloths; To which purpose the Prosecutors brought in a Bill last Sessions of Parliament, totally to prohibit the Factors from trading at all, which was rejected. Now this Clause is intended by degrees and consequence, to accomplish the same purpose.</p>
+            <p n="1">I. This Clause is against Common Right. Every Englishman, and especially every Freeman of <hi>London,</hi> having a right to buy and sell what Commodities he thinks fit, and to deal with whom he pleaseth; which Right ought not to be taken away, or abridged by general accusation to the prejudice of any Englishman, or Freeman, much less of a Body of considerable Traders, without due proof of Misfeazance or Forfeiture of such Right, or of a general Inconvenience in the further use of it; neither of which have, or can be proved in this Case.</p>
+            <p n="2">II. The Pretence of this Clause is, The Benefit of the Clothiers of <hi>England,</hi> who indeed best understand, and are the most competent Judges of their own Interest. And if it be their Advantage, will refuse to buy Wooll of the Factor, (without Aid of an Act of Parliament) they being now absolutely free to buy or not of the Factor, as they please, and are not under any manner of Necessity, but at their own free Election; so that it is thought unreasonable to make a Law to prohibit that, which is already in the power of the Clothier himself (as his In<g ref="char:EOLhyphen"/>terest leads him) to do or not to do.</p>
+            <p>And as the Clothier is now free, so the greatest part of them, by their Petition, pray they may be left free to buy of whom they shall think fit, they themselves alledging the said Clause will be very prejudicial to them, if passed: The several Petitions of the Clothiers from the several Clo<g ref="char:EOLhyphen"/>thing Counties of <hi>England</hi> sufficiently justify this.</p>
+            <p n="3">III. If this Clause pass, it will oblige the Factor to draw out his Stock from the Clothier's Credit (which is very considerable,) and will leave the midling and small Clothier without means to subsist, or Money to carry on his Trade; which they now do in great measure, by the Wooll and Monies the Factors advance upon the Credit of their Cloth upon hand unsold (without Consideration;) which if the Factor should with<g ref="char:EOLhyphen"/>draw, the Clothier must stand still until his Goods are sold, and Money received, and in the mean time the poor Work-people must starve, or come to the Parish: and the Consequence of that, will necessarily be the Lessening and Decay of the Woollen Manufacture, instead of the Ad<g ref="char:EOLhyphen"/>vance thereof, as the Act intends.</p>
+            <p n="4">IV. This Clause is against the Opinion, Prayer and Interest of the Merchant Importer of Wooll, who, if it pass, must turn Retailers, or be forced to Export the greatest part of the Wooll they Import, to <hi>Holland,</hi> &amp;c. most of the Clothiers having occasion but for small Parcels, and the Merchant being a Stranger to the Clothier, and his Circumstances, will not, nor can in reason sell to them, without present Money or Secu<g ref="char:EOLhyphen"/>rity, which the Clothier will not be able to pay or give; and that will be a means to hinder the Importation of Wooll, and a great Detriment to the Clothing of the Nation.</p>
+            <p n="5">V. The great Objection against the Factors is, That they Ingross all the Wooll that comes, and thereby the Clothier is forced to buy of them at Advanced Prices.</p>
+            <p>
+               <hi>Answer.</hi> All the Factors of <hi>Blackwell-Hall</hi> are not able to buy the Third part of the Wooll Imported at the Port of <hi>London</hi> only, and great Quantities are Imported at <hi>Exon, Bristol,</hi> and other places; Therefore they cannot Ingross the Commodity: Besides, if they could, the Clo<g ref="char:EOLhyphen"/>thier is not bound to buy of his own Factor, but (as they now usually do) buy of another, if he think another more indifferent, and will use him better. And there was always (time out of mind) Persons concerned, in buying and selling of Wooll between the Merchant and Clo<g ref="char:EOLhyphen"/>thier, and who (as every Body knows that knows the Trade) sold to the Clothier at greater Advanced Prices than any of the Factors ever did.</p>
+            <p n="6">VI. The Selling to their Principals the Commodities they use, is practised by all other Factors, as the <hi>Canterbury</hi> and <hi>Norwich</hi> Factors send to their Weavers their Silk; and those that deal in Fustians from <hi>Lancashire,</hi> do furnish their Weavers from <hi>London</hi> with Cotton, Wooll, and Linnen Yarn.</p>
+            <p>So that this Clause being prosecuted by a very few Clothiers, (who are only able to buy of the Merchants, and thereby hope to have the sole Selling of Wooll by Retail to the other Clothiers) which is to make the greatest part subject to a few Rich men of the same Trade; and if it pass, will be the Ruin of the greatest part of the Clothiers, who cannot afford to advance Money, nor have Credit with the Merchant, is a plain Design in the Prosecutors to Ingross the whole Clothing Trade to themselves, and destroy all the midling and small Clothiers: when as the Woollen Manufacture will be most advanced by remaining in many hands, and left as formerly, and thereby Thousands of Poor will be preserved from Beggary and Want.</p>
+            <p>Since therefore the Clause is against the Prayer of, and very prejudicial to all the said Factors, and Merchant-Importers, and greatest part of the Clothiers, and consequently fatally Injurious to the Woollen Manufacture of the Nation, It is hoped the said Clause shall be rejected.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:38347:2"/>
+            <p>THE <hi>Blackwell-Hall</hi> Factors CASE Relating to the BILL for pre<g ref="char:EOLhyphen"/>venting the Exportation of WOOLL, <hi>&amp;c.</hi> And Regula<g ref="char:EOLhyphen"/>ting the <hi>Blackwell-Hall</hi> Factors.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
